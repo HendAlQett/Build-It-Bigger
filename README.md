@@ -1,6 +1,7 @@
 # Build-It-Bigger
 
 ##Android project to tell jokes:
+
   * Java library to supply jokes.
   * Android library to display jokes passed to it as intent extras. 
   * Backend (Google Cloud Endpoints Module)to supply jokes from the Java library.
@@ -14,3 +15,7 @@
    * Launche the GCE local development server.
    * Run all server.
    * Shutdown the server again.
+
+##Why this Project?
+
+As Android projects grow in complexity, it becomes necessary to customize the behavior of the Gradle build tool, allowing automation of repetitive tasks. Particularly, factoring functionality into libraries and creating product flavors allow for much bigger projects with minimal added complexity.
