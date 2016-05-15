@@ -1,6 +1,6 @@
 # Build-It-Bigger
 
-##Gradle project to tell jokes:
+##Android project to tell jokes:
   * Java library to supply jokes.
   * Android library to display jokes passed to it as intent extras. 
   * Backend (Google Cloud Endpoints Module)to supply jokes from the Java library.
